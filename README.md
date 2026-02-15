@@ -1,0 +1,70 @@
+# Daryl Hall & John Oates – Maneater
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:44.48] She'll only come out at night
+[00:47.06] The lean and hungry type
+[00:49.97] Nothing is new, I've seen her here before
+[00:55.20] Watching and waiting
+[00:57.37] Ooh, she's sitting with you but her eyes are on the door
+[01:25.37] 
+[01:05.94] So many have paid to see
+[01:08.71] What you think you're getting for free
+[01:11.47] The woman is wild
+[01:12.75] A she-cat tamed by the purr of a Jaguar
+[01:16.92] Money's the matter
+[01:19.00] If you're in it for love you ain't gonna get too far
+[01:45.00] 
+[01:27.66] (Oh-oh, here she comes)
+[01:30.32] Watch out, boy, she'll chew you up
+[01:33.27] (Oh-oh, here she comes)
+[01:35.32] She's a maneater
+[01:38.57] (Oh-oh, here she comes)
+[01:41.09] Watch out, boy, she'll chew you up
+[01:43.10] (Oh-oh, here she comes)
+[01:46.08] She's a maneater
+[01:54.08] 
+[01:54.70] I wouldn't if I were you
+[01:57.34] I know what she can do
+[01:59.91] She's deadly, man
+[02:01.42] She could really rip your world apart
+[02:05.69] Mind over matter
+[02:07.70] Ooh, the beauty is there but a beast is in the heart
+[02:33.70] 
+[02:16.35] (Oh-oh, here she comes)
+[02:19.25] Watch out, boy, she'll chew you up
+[02:21.85] (Oh-oh, here she comes)
+[02:23.95] She's a maneater
+[02:27.18] (Oh-oh, here she comes)
+[02:29.92] Watch out, boy, she'll chew you up
+[02:32.62] (Oh-oh, here she comes)
+[02:34.83] She's a maneater
+[02:42.83] 
+[03:26.58] (Oh-oh, here she comes) here she comes
+[03:29.33] Watch out, boy, she'll chew you up
+[03:32.00] Oh-oh, here she comes (watch out)
+[03:34.32] She's a maneater
+[03:37.44] Oh-oh, here she comes (she's a maneater)
+[03:40.58] Ooh, she'll chew you up
+[03:42.98] (Oh-oh, here she comes) here she comes
+[03:45.05] She's a maneater
+[03:53.05] 
+[03:48.49] (Oh-oh, here she comes) watch out
+[03:50.74] She'll only come out at night, ooh
+[03:53.67] (Oh-oh, here she comes) here she comes
+[03:56.06] She's a maneater
+[03:59.16] (Oh-oh, here she comes) she's a maneater
+[04:02.33] The woman is wild, ooh
+[04:04.46] (Oh-oh, here she comes) here she comes
+[04:07.25] Watch out, boy, watch out, boy
+[04:22.25] 
+[04:09.81] (Oh-oh, here she comes)
+[04:11.77] Oh-oh, watch out, watch out, watch out, watch out
+[04:15.37] (Oh-oh, here she comes)
+[04:16.92] Yeah-yeah, she's a maneater (watch out)
+[04:20.69] (Oh-oh, here she comes) she's a maneater
+[04:23.75] She's watching and waiting, ooh
+[04:26.11] (Oh-oh, here she comes)
+[04:27.53] Oh, she's a maneater
+```

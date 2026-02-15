@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Maneater",
+  "base_artist": "Daryl Hall & John Oates",
+  "createdAt": "2026-02-15T15:28:11.265470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/01_Maneater_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/02_Maneater_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/03_Maneater_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/04_Maneater_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "Hall & Oates",
+      "has_synced": true,
+      "path": "select/05_Maneater_Hall_&_Oates.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "The Bird and the Bee",
+      "has_synced": false,
+      "path": "select/06_Maneater_The_Bird_and_the_Bee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/07_Maneater_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maneater (Jelo's club mix)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/08_Maneater_(Jelo's_club_mix)_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maneater (David Garcia & Morgan Page Remix)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/09_Maneater_(David_Garcia_&_Morgan_Page_Remix)_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Maneater",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/10_Maneater_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maneater (Instrumental)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/11_Maneater_(Instrumental)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maneater - Live From Sprint Music Series/2006",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/12_Maneater_-_Live_From_Sprint_Music_Series_2006_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maneater - Radio 1 Live Lounge Session",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/13_Maneater_-_Radio_1_Live_Lounge_Session_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maneater (Radio 1 Live Lounge Session)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/14_Maneater_(Radio_1_Live_Lounge_Session)_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maneater (Richard Vission Solmatic edit)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/15_Maneater_(Richard_Vission_Solmatic_edit)_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Maneater (J.O radio mix)",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/16_Maneater_(J.O_radio_mix)_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Maneater - Waata House Mix",
+      "artist": "Nelly Furtado feat. Alozade",
+      "has_synced": false,
+      "path": "select/17_Maneater_-_Waata_House_Mix_Nelly_Furtado_feat._Alozade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maneater",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/pl_01_Maneater_Daryl_Hall_&_John_Oates.txt"
+    }
+  ]
+}
